@@ -5,4 +5,8 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 changes
 bug
+
 my friends
+
+friends
+ e69a48a2eb622b3afe549ca65e4dcaee51b12b85
